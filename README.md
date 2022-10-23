@@ -12,6 +12,6 @@ https://ufal.mff.cuni.cz/czeng
 ## Bashkir corpora  
 
 This http://web-corpora.net/bashcorpus/search/?interface_language=en is a corpus created by Bashkir State University from a collection of Bashkir poetry starting from Soviet era. It claims to have over 1.8 million word usage instances. One issue is that I haven't found a way to download the whole corpus, rather a limited number of search results can be downloaded.  
-This https://corpora.uni-leipzig.de/en?corpusId=bak_wikipedia_2021 one is from Uni Leipzig, several time snapshots of several online sources, icluding news outlets and Wikipedia. I find it rather cool.  
+This https://corpora.uni-leipzig.de/en?corpusId=bak_wikipedia_2021 one is from Uni Leipzig, several time snapshots of several online sources, icluding news outlets and Wikipedia. The data are downloadable. I noticed that some sentences are actually in Russian, probably they automatically crawled the web.  
 And then there are two random things on Github, https://github.com/nevmenandr/bashkir-corpus and https://github.com/LingConLab/Bashkir_corpus, for the first one the corpus appears to be very small, for the second one, I haven't found the data at all.
 
