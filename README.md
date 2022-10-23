@@ -19,3 +19,6 @@ And then there are two random things on Github, https://github.com/nevmenandr/ba
 
 To start, it's maybe a good idea to use the Uni Leipzig corpus because of its CC-BY licence.
 Attribution: © 2022 Abteilung Automatische Sprachverarbeitung, Universität Leipzig, accessed at https://wortschatz.uni-leipzig.de/en.
+I also cite the following paper:  
+D. Goldhahn, T. Eckart & U. Quasthoff: Building Large Monolingual Dictionaries at the Leipzig Corpora Collection: From 100 to 200 Languages.
+In: Proceedings of the 8th International Language Resources and Evaluation (LREC'12), 2012
