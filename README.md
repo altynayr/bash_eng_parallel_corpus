@@ -1,7 +1,7 @@
 # Goal 
 
-Create a parallel corpus of Bashkir and English for training a translator. A quick search on the internet shows that there are non-parallel Bashkir corpora. Those I could find are listed below under Resources, Bashkir corpora. A parallel corpus, let alone an English-Bashkir one doesn't exist, so the project is novel.  
-Currently, the project is in its research stage. I need to know what texts I am allowed to legally use, and what texts are advised for training an accurate translator.
+Create a parallel corpus of Bashkir and English for training a translator. A quick search on the internet shows that there are non-parallel Bashkir corpora. Those I could find are listed below under Resources, Bashkir corpora. A parallel corpus, let alone an English-Bashkir one doesn't exist, so the project is novel. Currently, the project is in its research stage. I need to know what texts I am allowed to legally use, and what texts are advised for training an accurate translator.  
+There is also a paralell goal. Since it looks like I will have to translate from Bashkir to English manually it might improve my Bashkir :)
 
 # Resources  
 
