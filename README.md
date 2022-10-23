@@ -15,3 +15,7 @@ This http://web-corpora.net/bashcorpus/search/?interface_language=en is a corpus
 This https://corpora.uni-leipzig.de/en?corpusId=bak_wikipedia_2021 one is from Uni Leipzig, several time snapshots of several online sources, icluding news outlets and Wikipedia. The data are downloadable. I noticed that some sentences are actually in Russian, probably they automatically crawled the web.  
 And then there are two random things on Github, https://github.com/nevmenandr/bashkir-corpus and https://github.com/LingConLab/Bashkir_corpus, for the first one the corpus appears to be very small, for the second one, I haven't found the data at all.
 
+# Work
+
+To start, it's maybe a good idea to use the Uni Leipzig corpus because of its CC-BY licence.
+Attribution: © 2022 Abteilung Automatische Sprachverarbeitung, Universität Leipzig, accessed at https://wortschatz.uni-leipzig.de/en.
