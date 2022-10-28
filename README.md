@@ -27,4 +27,4 @@ D. Goldhahn, T. Eckart & U. Quasthoff: Building Large Monolingual Dictionaries a
 In: Proceedings of the 8th International Language Resources and Evaluation (LREC'12), 2012
 
 ## Unicode data set
-Constructed manually combining a Wikipedia [page]([url](https://en.wikipedia.org/wiki/Bashkir_alphabet)) about Bashkir alphabet and a Unicode [table]([url](https://unicodeplus.com/)).
+Constructed manually combining a Wikipedia page https://en.wikipedia.org/wiki/Bashkir_alphabet about Bashkir alphabet and a Unicode table https://unicodeplus.com/.
