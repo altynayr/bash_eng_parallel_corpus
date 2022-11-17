@@ -3,6 +3,9 @@ from typing import List, Any
 import pandas as pd
 import numpy as np
 import os
+from bs4 import BeautifulSoup as soup
+import lxml
+
 
 # Load Leipzig corpora
 corpora_paths = []
@@ -33,3 +36,12 @@ df_bashkir_short = df_bashkir[df_bashkir['word_count'] < 8]
 # np.histogram(df.word_count)
 
 df_bashkir_short.to_csv("to_translate.csv")
+
+# Wiktionary dump
+file_name = 'enwiktionary-20221020-pages-meta-current.xml'
+
+doc = []
+with open(file_name, 'r') as f:
+    for lines in f:
+        if 'Bashkir' in line:
+            print(line)
