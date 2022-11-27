@@ -1,9 +1,14 @@
-# Goal 
+# Summary of the project 
 
-Create a parallel corpus of Bashkir and English for training a translator. A quick search on the internet shows that there are non-parallel Bashkir corpora. Those I could find are listed below under Resources, Bashkir corpora. A parallel corpus, let alone an English-Bashkir one doesn't exist, so the project is novel. Currently, the project is in its research stage. I need to know what texts I am allowed to legally use, and what texts are advised for training an accurate translator.  
-There is also a paralell goal. Since it looks like I will have to translate from Bashkir to English manually it might improve my Bashkir :)
+Create a parallel corpus of Bashkir and English for training a translator. A quick search on the internet shows that there are non-parallel Bashkir corpora. Those I could find are listed below under Resources, Bashkir corpora. I could not find a parallel corpus, let alone an English-Bashkir one, lying around freely avaiable on the internet.  
 
-# Resources  
+The resulting parallel corpus including 2838 Bashkir-English sentence pairs was extracted from a Wiktionary dump https://dumps.wikimedia.org/enwiktionary/ of 2022-10-21 of the English Language Wiktionary.
+
+Another corpus is non-parallel and was taken from the University of Leipzig. Since not all sentences in the corpus are in Bashkir, I roughly filtered the Bashkir sentences using a set of Bashkir-specific cyrillic characters. Citations:  
+The Leipzig corpus: © 2022 Abteilung Automatische Sprachverarbeitung, Universität Leipzig, accessed at https://wortschatz.uni-leipzig.de/en. I also cite the following paper:  D. Goldhahn, T. Eckart & U. Quasthoff: Building Large Monolingual Dictionaries at the Leipzig Corpora Collection: From 100 to 200 Languages. In: Proceedings of the 8th International Language Resources and Evaluation (LREC'12), 2012.  
+The unicode Bashkir-specific cyrillica characters: Constructed manually combining a Wikipedia page https://en.wikipedia.org/wiki/Bashkir_alphabet about Bashkir alphabet and a Unicode table https://unicodeplus.com/.
+
+# Other resources and ideas for the future
 
 ## Making a corpus  
 https://www.clarin.eu/resource-families/parallel-corpora  
@@ -18,17 +23,3 @@ And then there are two random things on Github, https://github.com/nevmenandr/ba
 ## Translation work done before
 
 Here's a page that mentions English-Kazakh translation https://www.statmt.org/wmt19/translation-task.html.
-
-# Work
-
-## Data sets
-
-### Corpus
-To start, it's maybe a good idea to use the Uni Leipzig corpus because of its CC-BY licence.
-Attribution: © 2022 Abteilung Automatische Sprachverarbeitung, Universität Leipzig, accessed at https://wortschatz.uni-leipzig.de/en.
-I also cite the following paper:  
-D. Goldhahn, T. Eckart & U. Quasthoff: Building Large Monolingual Dictionaries at the Leipzig Corpora Collection: From 100 to 200 Languages.
-In: Proceedings of the 8th International Language Resources and Evaluation (LREC'12), 2012
-
-## Unicode data set
-Constructed manually combining a Wikipedia page https://en.wikipedia.org/wiki/Bashkir_alphabet about Bashkir alphabet and a Unicode table https://unicodeplus.com/.
