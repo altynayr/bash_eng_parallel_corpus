@@ -1,9 +1,9 @@
-# Goal 
+# Summary of the project 
 
-Create a parallel corpus of Bashkir and English for training a translator. A quick search on the internet shows that there are non-parallel Bashkir corpora. Those I could find are listed below under Resources, Bashkir corpora. A parallel corpus, let alone an English-Bashkir one doesn't exist, so the project is novel. Currently, the project is in its research stage. I need to know what texts I am allowed to legally use, and what texts are advised for training an accurate translator.  
-There is also a paralell goal. Since it looks like I will have to translate from Bashkir to English manually it might improve my Bashkir :)
+Create a parallel corpus of Bashkir and English for training a translator. A quick search on the internet shows that there are non-parallel Bashkir corpora. Those I could find are listed below under Resources, Bashkir corpora. I could not find a parallel corpus, let alone an English-Bashkir one, lying around freely avaiable on the internet.
+The resulting parallel corpus including 2838 Bashkir-English sentence pairs was extracted from a Wiktionary dump https://dumps.wikimedia.org/enwiktionary/ of 2022-10-21 of the English Language Wiktionary.
 
-# Resources  
+# Other resources and ideas for the future
 
 ## Making a corpus  
 https://www.clarin.eu/resource-families/parallel-corpora  
